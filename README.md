@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @asshutoshsahu
+- Co-Founder [@ reachook.com](https://reachook.com/)
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me by whatts app me 9648174847
+- 📫 How to reach me by insta @axhtoch
 
 <!---
 asshutoshsahu/asshutoshsahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
